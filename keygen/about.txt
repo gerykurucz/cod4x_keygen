@@ -1,0 +1,13 @@
+# Open Source Cod4 CD Key Generator by Gery Kurucz @ cod4mp.com
+
+1. get rust: https://rustup.rs/
+
+2. verify:  rustc --version
+            cargo --version
+
+3. compile: cargo build --release
+
+# Use precompiled keygen.exe or build it yourself. 
+# It will generate 10000 cd keys to keys.txt you can apply in the ingame menu. Choose one :)
+# Premade keys are available, but over time may end up being used by others.
+
